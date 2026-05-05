@@ -17,7 +17,7 @@ const totemSecondary = [
 ];
 
 const bubbles = ["Tótems interactivos", "Kioskos táctiles", "Gestión de colas", "Soluciones LED"];
-const epaperBubbles = ["Etiquetas de precio", "Promociones", "Directorios", "Información de producto"];
+const epaperBubbles = ["Etiquetas de precio", "Promociones", "Información de producto"];
 
 const DigitalSignageSection = () => (
   <section id="digital-signage" className="py-12 md:py-16 bg-background">
@@ -108,8 +108,8 @@ const DigitalSignageSection = () => (
           <div>
             <h3 className="text-lg md:text-xl font-bold text-foreground mb-2">E-Paper</h3>
             <p className="text-sm md:text-base text-muted-foreground leading-relaxed">
-              Soportes audiovisuales de bajo consumo ideales para mostrar carteleras, programación de eventos,
-              fichas técnicas de proyecciones y comunicación visual estática con máxima legibilidad.
+              Soportes audiovisuales de bajo consumo ideales para mostrar carteleras, programación de eventos, fichas
+              técnicas de proyecciones y comunicación visual estática con máxima legibilidad.
             </p>
             <div className="flex flex-wrap gap-2.5 mt-4">
               {epaperBubbles.map((label, i) => (
