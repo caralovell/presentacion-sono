@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import ScrollReveal from "./ScrollReveal";
 import cmsDashboard from "@/assets/dashboard-mockup.png";
 import player from "@/assets/android-media-player.jpg";
-import epaperDisplay from "@/assets/epaper-display.jpg";
+import epaperDisplay from "@/assets/pantallaelect.png";
 import totemMain from "@/assets/maintotem.png";
 import totem1 from "@/assets/1totem.png";
 import totem2 from "@/assets/2totem.png";
