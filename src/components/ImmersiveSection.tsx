@@ -1,8 +1,8 @@
 import ScrollReveal from "./ScrollReveal";
-import robotics from "@/assets/immersive-robotics.jpg";
-import vr from "@/assets/immersive-vr.jpg";
-import aroma from "@/assets/immersive-aroma.jpg";
-import hologram from "@/assets/immersive-hologram.jpg";
+import robotics from "@/assets/robot.png";
+import vr from "@/assets/vr.png";
+import aroma from "@/assets/mkt.png";
+import hologram from "@/assets/holo.png";
 
 const items = [
   { title: "Robótica", img: robotics },
