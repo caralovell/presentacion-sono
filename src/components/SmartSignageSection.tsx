@@ -32,8 +32,8 @@ const SmartSignageSection = () => (
           </span>
           <h2 className="text-3xl md:text-5xl font-bold text-foreground mb-4">Smart Signage</h2>
           <p className="text-base md:text-lg text-muted-foreground leading-relaxed">
-            Convierte la señalización tradicional en un punto de contacto inteligente. Un solo gesto del usuario,
-            infinitas posibilidades.
+            Convierte cualquier soporte físico en un punto de acceso a contenidos audiovisuales. Un gesto del
+            espectador, infinitas piezas que reproducir.
           </p>
         </div>
       </ScrollReveal>
@@ -61,16 +61,16 @@ const SmartSignageSection = () => (
                 </div>
 
                 <p className="text-sm text-muted-foreground leading-relaxed mb-4">
-                  Transforma tu negocio en un ecosistema inteligente impulsado por IA conversacional, datos en tiempo
-                  real y conectividad sin interrupciones.
+                  Da acceso instantáneo a vídeos, trailers, making-of y contenidos audiovisuales adicionales desde
+                  cualquier soporte impreso o pantalla.
                 </p>
 
                 <ul className="space-y-2.5">
-                  {[
-                    "Acceso sin instalación de apps",
-                    "Contenido actualizable en tiempo real",
-                    "Compatible con cualquier smartphone",
-                  ].map((t, i) => (
+                {[
+                  "Acceso directo al contenido audiovisual",
+                  "Vídeos y piezas actualizables en tiempo real",
+                  "Compatible con cualquier smartphone",
+                ].map((t, i) => (
                     <motion.li
                       key={t}
                       initial={{ opacity: 0, x: -10 }}
@@ -128,8 +128,8 @@ const SmartSignageSection = () => (
               </div>
 
               <p className="text-sm text-muted-foreground leading-relaxed mb-5">
-                La solución integral que fusiona lo físico y digital para ofrecer experiencias phygital más inteligentes
-                y conectadas
+                Activa contenidos audiovisuales con un simple acercamiento del móvil: trailers, fichas, listas de
+                reproducción y experiencias phygital sin fricción
               </p>
 
               {/* NFC image */}

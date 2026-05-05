@@ -35,8 +35,8 @@ const DigitalSignageSection = () => (
       <ScrollReveal delay={0.1}>
         <div className="max-w-4xl mx-auto text-center mb-10">
           <p className="text-base md:text-lg text-muted-foreground leading-relaxed">
-            Soluciones personalizadas que consiguen acercar tu marca a los usuarios de forma fácil y sencilla, creando
-            una experiencia única.
+            Producciones audiovisuales personalizadas que conectan tu marca con la audiencia a través de contenidos
+            visuales impactantes, dinámicos y con calidad cinematográfica.
           </p>
 
           <div className="flex flex-wrap justify-center gap-2.5 mt-6">
@@ -108,9 +108,8 @@ const DigitalSignageSection = () => (
           <div>
             <h3 className="text-lg md:text-xl font-bold text-foreground mb-2">E-Paper</h3>
             <p className="text-sm md:text-base text-muted-foreground leading-relaxed">
-              Pantallas de papel electrónico para tiendas: ideales para etiquetas de precio, promociones por categoría,
-              directorios de tienda, información de producto y comunicación comercial, con bajo consumo y máxima
-              visibilidad.
+              Soportes audiovisuales de bajo consumo ideales para mostrar carteleras, programación de eventos,
+              fichas técnicas de proyecciones y comunicación visual estática con máxima legibilidad.
             </p>
             <div className="flex flex-wrap gap-2.5 mt-4">
               {epaperBubbles.map((label, i) => (
@@ -154,8 +153,8 @@ const DigitalSignageSection = () => (
           <div>
             <h3 className="text-lg md:text-xl font-bold text-foreground mb-2">Gestión de Contenido</h3>
             <p className="text-sm md:text-base text-muted-foreground leading-relaxed">
-              Gestionar y mostrar contenidos digitales en pantallas ubicadas en espacios físicos como tiendas, oficinas,
-              aeropuertos o centros comerciales
+              Plataforma para programar, distribuir y reproducir contenidos audiovisuales en pantallas y videowalls
+              ubicados en salas, vestíbulos, estudios y espacios de exhibición
             </p>
           </div>
           <div className="flex gap-4 items-center">
