@@ -1,9 +1,9 @@
 import { motion, useMotionValue, useSpring } from "framer-motion";
 import ScrollReveal from "./ScrollReveal";
 import { useEffect, useRef } from "react";
-import aiAgent from "@/assets/ai-agent.jpg";
-import aiAvatar from "@/assets/ai-avatar.jpg";
-import aiAdaptive from "@/assets/ai-adaptive.jpg";
+import aiAgent from "@/assets/aasistente.png";
+import aiAvatar from "@/assets/corpo.png";
+import aiAdaptive from "@/assets/adaptable.png";
 
 const blocks = [
   {
