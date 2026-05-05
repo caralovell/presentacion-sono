@@ -9,17 +9,17 @@ const blocks = [
   {
     title: "Agente IA",
     img: aiAgent,
-    desc: "Asistente conversacional que automatiza procesos, atiende consultas y guía a usuarios y personal en tiempo real.",
+    desc: "Asistente conversacional que recomienda contenidos audiovisuales, resuelve dudas y guía al espectador en tiempo real.",
   },
   {
     title: "Avatar IA",
     img: aiAvatar,
-    desc: "Avatar virtual humano y empático que interactúa por voz y gesto en pantallas y tótems de forma accesible.",
+    desc: "Presentador virtual humano y empático que narra contenidos por voz y gesto en pantallas y videowalls.",
   },
   {
     title: "IA Adaptable",
     img: aiAdaptive,
-    desc: "Asistente personalizable que aprende del entorno y adapta tono, respuestas y capacidades a cada caso de uso.",
+    desc: "Motor que aprende del catálogo y la audiencia, adaptando tono, recomendaciones y piezas a cada perfil.",
   },
 ];
 

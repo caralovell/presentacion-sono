@@ -21,9 +21,9 @@ const WayfindingSection = () => (
           </span>
           <h2 className="text-3xl md:text-5xl font-bold text-foreground mb-4">Digital Wayfinding</h2>
           <p className="text-base md:text-lg text-muted-foreground leading-relaxed">
-            Navegación inteligente en interiores que guía al cliente por la tienda con rutas en tiempo real,
-            localización de secciones, productos, probadores, cajas y puntos de recogida, y orientación paso a paso
-            entre plantas y zonas comerciales.
+            Navegación inteligente que guía al espectador por salas de proyección, estudios, platós y espacios
+            audiovisuales con rutas en tiempo real, localización de salas, butacas, accesos y zonas técnicas paso a
+            paso.
           </p>
         </div>
       </ScrollReveal>
@@ -82,7 +82,7 @@ const WayfindingSection = () => (
           {/* Right: explanatory text + button */}
           <div className="flex flex-col items-center md:items-start gap-3 max-w-xs text-center md:text-left">
             <p className="text-sm text-muted-foreground leading-relaxed">
-              Explora una demo interactiva del mapa de navegación digital.
+              Explora una demo interactiva del mapa de navegación por el espacio audiovisual.
             </p>
             <a
               href="https://maps.situm.com/Situm?wl=true&lng=es&building_id=19027&floor_id=64456"

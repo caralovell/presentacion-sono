@@ -31,7 +31,8 @@ const NavilensSection = () => (
               </div>
 
               <p className="text-xs md:text-sm text-muted-foreground leading-relaxed">
-                La nueva tecnología disruptiva de señalética para personas con discapacidad visual.
+                Señalética audiovisual con audiodescripción para que las personas con discapacidad visual disfruten
+                del contenido.
               </p>
             </div>
 
@@ -71,8 +72,8 @@ const NavilensSection = () => (
               </div>
 
               <p className="text-xs md:text-sm text-muted-foreground leading-relaxed">
-                Creamos tecnología innovadora para personas con pérdida auditiva, y para empresas e instituciones
-                comprometidas con la accesibilidad.
+                Tecnología que traduce el sonido de proyecciones y eventos audiovisuales en señales visuales y
+                vibraciones, haciendo el contenido accesible a personas con pérdida auditiva.
               </p>
             </div>
 
